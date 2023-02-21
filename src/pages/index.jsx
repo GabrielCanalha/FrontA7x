@@ -7,7 +7,7 @@ export default function Home() {
     <>
       <Meta />
       <Link />
-      <Title name="Home" />
+      <Title name="Teste Gabriel" />
       <h1></h1>
     </>
   );
